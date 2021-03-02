@@ -8,4 +8,4 @@ The code is yet to be published, but you can find the thesis [here](https://www.
 
 
 ## Disclaimer
-All the content is located as a private repo. If you wish to get the code for this project- do contact me privetly at ebojs@kth.se.
+All the content is located as a private repo. If you wish to get the code for this project- do contact me privately at ebojs@kth.se.
